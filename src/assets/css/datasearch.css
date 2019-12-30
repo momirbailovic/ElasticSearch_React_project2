@@ -1,0 +1,16 @@
+.btn-dataseach {
+  color: #fff;
+  background: #3ea662;
+  background-color: #4dbd74;
+  border-color: #4dbd74;
+  outline: none;
+  border: 0;
+  position: absolute;
+  right: -470;
+  height: 40;
+  top: -12;
+  width: 70;
+  margin: 0;
+  cursor: pointer;
+  border-radius: 5;
+}
